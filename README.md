@@ -3,7 +3,7 @@ Typeface package for lalezarregular font
 ```bash
 npm i -S typeface-lalezarregular
 ```
-Fonts will be copied to node_modules/typeface-byekan/dist directory
+Fonts will be copied to node_modules/typeface-lalezarregular/dist directory
 and you could add them easily to your project :
 ```javascript
 import 'typeface-lalezarregular';
