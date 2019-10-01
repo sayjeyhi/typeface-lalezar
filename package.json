@@ -1,0 +1,24 @@
+{
+  "name": "typeface-lalezar",
+  "version": "1.0.0",
+  "description": "Easy to use font family",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafar-rezaei/typeface-lalezar.git"
+  },
+  "keywords": [
+    "fontfamily",
+    "lalezar",
+    "typeface"
+  ],
+  "author": "JafarRezaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jafar-rezaei/typeface-lalezar/issues"
+  },
+  "homepage": "https://github.com/jafar-rezaei/typeface-lalezar#readme"
+}
