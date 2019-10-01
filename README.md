@@ -8,20 +8,25 @@ and you could add them easily to your project :
 ```javascript
 import 'typeface-lalezarregular';
 ```
-and use `font-family: 'lalezarregular'` in your styling.
+and use `font-family: 'Lalezar-Regular'` in your styling.
 
 
 we used to do this with : 
 ```css
+/* font converted using font-converter.net. thank you! */
 @font-face {
-    font-family: 'lalezarregular';
-    src: url('./dist/Lalezar-Regular-webfont.eot');
-    src: url('./dist/Lalezar-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-    url('./dist/Lalezar-Regular-webfont.woff') format('woff'),
-    url('./dist/Lalezar-Regular-webfont.ttf') format('truetype');
+    font-family: "Lalezar-Regular";
+    src: url("./dist/Lalezar-Regular.eot"); /* IE9 Compat Modes */
+    src: url("./dist/Lalezar-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./dist/Lalezar-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./dist/Lalezar-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./dist/Lalezar-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./dist/Lalezar-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./dist/Lalezar-Regular.woff2") format("woff2"); /* Modern Browsers */
     font-weight: normal;
     font-style: normal;
 }
+
 ```
 
 ### todo :
