@@ -1,12 +1,12 @@
-Typeface package for byekan font
+Typeface package for lalezarregular font
 
 ```bash
-npm i -S typeface-lalezar
+npm i -S typeface-lalezarregular
 ```
 Fonts will be copied to node_modules/typeface-byekan/dist directory
 and you could add them easily to your project :
 ```javascript
-import 'typeface-lalezar';
+import 'typeface-lalezarregular';
 ```
 and use `font-family: 'lalezarregular'` in your styling.
 
@@ -22,7 +22,6 @@ we used to do this with :
     font-weight: normal;
     font-style: normal;
 }
-
 ```
 
 ### todo :
