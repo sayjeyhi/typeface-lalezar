@@ -1,4 +1,8 @@
-Typeface package for lalezarregular font
+# Easy to use lalezarregular typeface
+
+> 😄 use me with npm install
+
+Typeface package for lalezarregular font with [typography.js](https://github.com/KyleAMathews/typography.js)
 
 ```bash
 npm i -S typeface-lalezarregular
