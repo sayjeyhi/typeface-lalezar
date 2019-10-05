@@ -1,6 +1,6 @@
 # Easy to use lalezarregular typeface
 
-> 😄 use me with npm install
+> 😄 use me with npm
 
 Typeface package for lalezarregular font with [typography.js](https://github.com/KyleAMathews/typography.js)
 
